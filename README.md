@@ -18,3 +18,4 @@ Each task folder contains screenshots from Wazuh dashboard showing detection.
 
 ---
 *This is a growing lab - more detections will be added.*
+![Failed Login Brute Force](Task-Failed-Login/IMG-20260908-WA0024.jpeg)
