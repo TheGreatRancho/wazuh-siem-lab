@@ -21,3 +21,4 @@ Wazuh triggered alert after multiple failed attempts from same source.
 
 ### Evidence
 (Screenshot of Wazuh dashboard showing 4625 events)
+![Failed Login Evidence](IMG-20260908-WA0024.jpeg)
