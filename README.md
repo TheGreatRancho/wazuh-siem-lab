@@ -1,4 +1,6 @@
-# 🛡️ Wazuh SIEM Lab - SOC Analyst Project
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Respect%20Khoza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/respect-khoza-067720121)
+
+# Wazuh SIEM Lab - SOC Analyst Project# 🛡️ Wazuh SIEM Lab - SOC Analyst Project
 
 **Analyst:** Respect Khoza | TheGreatRancho
 **Lab Environment:** Wazuh Manager (Ubuntu) + Windows 10 Agent (DESKTOP-R1UESBF)
