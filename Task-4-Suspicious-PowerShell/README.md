@@ -27,4 +27,4 @@ PowerShell activity on endpoint is being monitored.
 evidence.jpg - Screenshot of PowerShell test + Wazuh service Running
 
 
-![Evidence](evidence.Jpg)
+![Evidence](evidence.jpg)
