@@ -61,9 +61,15 @@ Document Details for net user event:
 
 ## Evidence
 - 01-sysmon-local-events.jpg - Sysmon Operational log showing Event 1 and 5
-- 02-notepad-test.jpg - PowerShell test execution
-- 03-wazuh-notepad-15-hits.jpg - Wazuh Threat Hunting, 15 hits for notepad
 - 04-wazuh-net1-document-details.jpg - Document Details for net user event
 
 ## Conclusion
 Windows Process Monitoring is WORKING. Sysmon events are successfully forwarded to Wazuh and trigger detection rules.
+
+## Evidence
+
+![Sysmon Local Events](01-sysmon-local-events.jpg)
+*Sysmon Operational log showing Event 1 and 5*
+
+![Wazuh net1 Document Details](04-wazuh-net1-document-details.jpg)
+*Document Details for net user event*
